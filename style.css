@@ -1,0 +1,15 @@
+body {
+  display: flex;
+}
+
+.img {
+  margin-right: 2%;
+  width: 100vh;
+  height: 100vh;
+  background: url(photo-1585202900225-6d3ac20a6962.webp) no-repeat;
+  background-size: cover;
+}
+
+.form-info {
+  background-color: antiquewhite;
+}
