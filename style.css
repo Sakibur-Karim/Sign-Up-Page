@@ -1,8 +1,8 @@
-body {
+body{
   display: flex;
 }
 
-.img {
+.img{
   margin-right: 2%;
   width: 100vh;
   height: 100vh;
@@ -10,6 +10,25 @@ body {
   background-size: cover;
 }
 
-.form-info {
+.form-info{
   background-color: antiquewhite;
+}
+.form-content{
+  display: block;
+}
+.form-item{
+  align-items: center;
+  padding-top: 1%;
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+  
+}
+
+.form-input{
+  
+  margin-bottom: 5%;
+
 }
