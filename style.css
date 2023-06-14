@@ -11,7 +11,7 @@ body{
 }
 
 .form-info{
-  background-color: blue;
+  background-color: antiquewhite;
 }
 .form-content{
   display: block;
@@ -27,9 +27,30 @@ body{
   
 }
 
+
+
+
 .form-input{
   
   margin-bottom: 5%;
 
+
+}
+
+.create-account{
+  display: flex;
+  justify-content: center;
   
+}
+
+.create-account button{
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.create-account button:hover{
+  background-color: red;
 }
