@@ -6,16 +6,18 @@ body{
   margin-right: 2%;
   width: 100vh;
   height: 100vh;
-  background: url(photo-1585202900225-6d3ac20a6962.webp) no-repeat;
+  background: url(image.webp) no-repeat;
   background-size: cover;
 }
 
 .form-info{
   background-color: antiquewhite;
 }
+
 .form-content{
   display: block;
 }
+
 .form-item{
   align-items: center;
   padding-top: 1%;
@@ -27,14 +29,8 @@ body{
   
 }
 
-
-
-
 .form-input{
-  
   margin-bottom: 5%;
-
-
 }
 
 .create-account{
